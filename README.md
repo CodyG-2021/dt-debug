@@ -1,4 +1,4 @@
 # dt-debug
 For Data Tables to help debug
 
-The file location is SRC > DataTables2 > dataTableData2.js
+The file location is prams-portal/src/components/dataView/DataTables2
