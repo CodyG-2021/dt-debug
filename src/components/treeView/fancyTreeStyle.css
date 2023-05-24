@@ -1,0 +1,7 @@
+.fancytree-container {
+  outline: none;
+  height: 887px;
+  width: 215px;
+  max-width: 215px;
+  overflow: scroll;
+}
