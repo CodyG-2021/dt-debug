@@ -1,0 +1,16 @@
+/* select[name="dvTable_length"] {
+  display: inline;
+  max-width: 65px;
+  min-width: 65px;
+}; */
+
+#dvTable_filter{
+  display: inline;
+}
+#dvTable_wrapper{
+  padding-top: 5px;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+  padding: 0;
+}
